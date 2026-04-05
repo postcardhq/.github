@@ -6,14 +6,13 @@
 
 ---
 
-### [Demo](https://postcard.fartlabs.org) · [Documentation](https://www.mintlify.com/postcardhq/postcard) · [API](https://postcard.fartlabs.org/api/docs)
+### [Demo](https://postcard.fartlabs.org) · [API](https://postcard.fartlabs.org/api/docs)
 
 ---
 
 **Repositories**
 
 - [postcard](https://github.com/postcardhq/postcard) — Main app
-- [postcard-docs](https://github.com/postcardhq/postcard-docs) — Docs
 
 **Connect**
 
