@@ -1,23 +1,6 @@
-# Postcard
+# Postcard HQ
 
-> Democratizing the truth.
+> Honesty-as-a-service
 
-![Postcard](https://raw.githubusercontent.com/postcardhq/postcard/main/public/postcard-illustration.png)
-
----
-
-### [Demo](https://postcard.fartlabs.org) · [API](https://postcard.fartlabs.org/api/docs)
-
----
-
-**Repositories**
-
-- [postcard](https://github.com/postcardhq/postcard) — Main app
-
-**Connect**
-
-- [Issues](https://github.com/postcardhq/postcard/issues) · [Discussions](https://github.com/postcardhq/postcard/discussions)
-
----
-
-🐈‍⬛ PantherHacks 2026
+- Find us at [postcard.fartlabs.org](https://postcard.fartlabs.org)
+- Contribute at [github.com/postcardhq/postcard](https://github.com/postcardhq/postcard)
