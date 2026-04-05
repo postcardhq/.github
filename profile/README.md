@@ -2,23 +2,23 @@
 
 > Democratizing the truth.
 
-## Quick Links
-
-|                                                         |                                                               |
-| ------------------------------------------------------- | ------------------------------------------------------------- |
-| [Demo](https://postcard.fartlabs.org)                   | [Documentation](https://www.mintlify.com/postcardhq/postcard) |
-| [API Reference](https://postcard.fartlabs.org/api/docs) | [Devpost](https://devpost.com/software/postcard-bpx2mz)       |
-
-## Repositories
-
-- [postcard](https://github.com/postcardhq/postcard) — Main application
-- [postcard-docs](https://github.com/postcardhq/postcard-docs) — Documentation site
-
-## Connect
-
-- [Open an issue](https://github.com/postcardhq/postcard/issues) — Report a bug or request a feature
-- [Discussions](https://github.com/postcardhq/postcard/discussions) — Ask questions and share ideas
+![Postcard](https://raw.githubusercontent.com/postcardhq/postcard/main/public/postcard-illustration.png)
 
 ---
 
-Built with 🐈‍⬛ at PantherHacks 2026
+### [Demo](https://postcard.fartlabs.org) · [Documentation](https://www.mintlify.com/postcardhq/postcard) · [API](https://postcard.fartlabs.org/api/docs)
+
+---
+
+**Repositories**
+
+- [postcard](https://github.com/postcardhq/postcard) — Main app
+- [postcard-docs](https://github.com/postcardhq/postcard-docs) — Docs
+
+**Connect**
+
+- [Issues](https://github.com/postcardhq/postcard/issues) · [Discussions](https://github.com/postcardhq/postcard/discussions)
+
+---
+
+🐈‍⬛ PantherHacks 2026
